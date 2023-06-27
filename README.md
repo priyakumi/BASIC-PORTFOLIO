@@ -31,8 +31,10 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 
 git hub link:
+git@github.com:priyakumi/BASIC-PORTFOLIO.git
 
 deployment link:
+ https://priyakumi.github.io/BASIC-PORTFOLIO/
 
 Screen shot:
-
+![screen shot](./assets/priyakumi.github.io_BASIC-PORTFOLIO_.png)
