@@ -144,44 +144,36 @@ footer p{
   color:var(--maincolor);
 }
 
+/* ==================== Media Screens ===============*/
 
-
-
-
-
-
-/* ==================== meadia screens ===============*/
-
-@media screen and (max-width: 768px) {
-  header{
-    display:none;
+@media screen and (max-width: 820px) {
+  .main-header{
+    display:flex;
   }
-  nav{
+  .nav-header{
     display:none;
-      
+     
+    }
+    .side-header{
+      display:flex;
+      flex-direction:column ;
     }
   .main-content{
+    display: flex;
     width: 100%;
-    font-size:fit-content;
+    flex-direction: column;
   }
 
 }
 
-@media screen and (max-width: 820px) {
-  header{
-    display:block;
-    width:100%;
-    margin:30px;
-  }
-    nav{
-      display:block;
-      width:100px;
-      margin:30px;
-      
-    }
-    
-  }
-  
+
+
+
+
+
+
+
+
 
 
 
