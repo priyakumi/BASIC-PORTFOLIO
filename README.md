@@ -37,5 +37,6 @@ deployment link:
  https://priyakumi.github.io/BASIC-PORTFOLIO/
 
 Screen shot:
-![screen shot ](./assets/Screen-shot.png)
+![screenshot](./assets/Screen-shot.png)
+
 
