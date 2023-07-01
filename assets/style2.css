@@ -126,6 +126,16 @@ background-color: var(--maincolor);
 .imagebox-1 img:hover{
   cursor: pointer;
   border:3px solid aqua;
+
+  
+}
+.imagebox-1 a img span :hover {
+  cursor: pointer;
+  border:3px solid white;
+  visibility:visible;
+  color:black;
+
+
   
 }
 .large-img{
@@ -171,6 +181,8 @@ footer p{
   }
 
 }
+
+
 
 
 
