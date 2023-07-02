@@ -31,7 +31,8 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 
 git hub link:
-git@github.com:priyakumi/BASIC-PORTFOLIO.git
+https://github.com/priyakumi/BASIC-PORTFOLIO
+
 
 deployment link:
  https://priyakumi.github.io/BASIC-PORTFOLIO/
