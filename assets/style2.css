@@ -145,6 +145,17 @@ background-color: var(--maincolor);
   font-size: 20px;
 }
 
+.para{
+  background-color:orchid;
+  color:blueviolet;
+  font-size: 25px;
+  width:100px;
+  height:120px;
+  border: 2px solid blue;
+}
+a .para{
+  
+}
 footer p{
   text-align: center;
   font-size:20px;
